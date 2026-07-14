@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;AI+%26+Machine+Learning;Cloud+Architecture;FinTech+Solutions;React+%7C+Node.js+%7C+TypeScript" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Darshan1602&style=for-the-badge)
 
 </div>
 
@@ -95,12 +95,12 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Darshan1602&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan1602&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1602&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Darshan1602&theme=algolia&column=4"/>
 </p>
 
 ---
@@ -116,7 +116,7 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan1602&theme=tokyo-night"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Darshan1602/Darshan1602/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
