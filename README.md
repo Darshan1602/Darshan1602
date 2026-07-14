@@ -116,7 +116,7 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan1602&theme=tokyo-night"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Darshan1602&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
