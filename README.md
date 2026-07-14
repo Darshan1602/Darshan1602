@@ -108,7 +108,7 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Darshan1602&theme=algolia&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Darshan1602&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Darshan1602&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan1602&theme=tokyo-night"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ PSD2-compliant banking integration with secure APIs and consent management.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Darshan1602/Darshan1602/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Darshan1602/Darshan1602/main/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
